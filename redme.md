@@ -12,6 +12,7 @@ Passo a passo para executar os exercícios:
 * Clone o repositório:
 
 git clone <https://github.com/DevMaiWolf/TAREFAS2.git>
+
 cd <NOME_DA_SUA_PASTA_NO_SEU_PC>
 ____________________________________________________________________________
 
